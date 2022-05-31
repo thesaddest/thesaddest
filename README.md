@@ -46,9 +46,7 @@ I've been learning web development for 2 years now. I started from basic HTML an
 
 <p align="left"> <a href="https://www.github.com/thesaddest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/artsem-shauchuk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/thesaddest"><img src="https://github-readme-stats.vercel.app/api?username=thesaddest&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="thesaddest's GitHub stats" /></a>
 
