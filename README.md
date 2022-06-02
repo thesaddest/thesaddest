@@ -3,7 +3,7 @@
 
 I've been learning web development for 2 years now. I started from basic HTML and CSS on freecodecamp.com, then i completed the App Brewery code camp program (React + Node.js), continued my studies at freecodecamp.com with Native JS, React, Bootstrap, etc. Later i completed a "React Way of Samurai" course to understand core React features and its architecture. So now i'm building my own projects to complete a portfolio with the knowledge i gained so far. And of course i'm really hungry for new knowledge, experince and projects.
 
-* 🌍  I'm based in Lodz, Poland
+* 🌍  I'm based in Warsaw, Poland
 * 🖥️  See my portfolio at [Currently Worknig on it](http://github.com/thesaddest)
 * ✉️  You can contact me at [artsemshauchuk@gmail.com](mailto:artsemshauchuk@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://github.com/thesaddest)
