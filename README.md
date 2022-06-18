@@ -8,6 +8,7 @@ I've been learning web development for 2 years now. I started from basic HTML an
 * 💻  You can check out some of my latest projects:
 *  *  [e-commerce app](https://pern-e-commerce-shop.herokuapp.com/)
 *  *  [trip-assistant app](https://trip-assistant.netlify.app/)
+*  *  [custom keyboards shop](https://custom-keyboards-shop.vercel.app/)
 * ✉️  You can contact me at [artsemshauchuk@gmail.com](mailto:artsemshauchuk@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://github.com/thesaddest)
 * 🧠  I'm learning Advanced React JS and its architecture
