@@ -11,7 +11,7 @@ I've been learning web development for 2 years now. I started from basic HTML an
 *  *  [custom keyboards shop](https://custom-keyboards-shop.vercel.app/)
 * ✉️  You can contact me at [artsemshauchuk@gmail.com](mailto:artsemshauchuk@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://github.com/thesaddest)
-* 🧠  I'm learning Advanced React JS and its architecture
+* 🧠  I'm learning Advanced React.js, Next.js, Nest.js, TypeScript and its architecture
 
 ### Skills
 
