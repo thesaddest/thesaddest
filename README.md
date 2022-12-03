@@ -1,5 +1,5 @@
 # Hi, my name is Artsem Shauchuk 👋 
-### Web Developer
+### Software Engineer
 
 * 🌍  I'm based in Warsaw, Poland
 * 🖥️  See my [portfolio](https://nextjs-portfolio-black-iota.vercel.app/)
