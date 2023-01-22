@@ -8,7 +8,7 @@
 *  *  [trip-assistant app](https://trip-assistant.netlify.app/)
 *  *  [custom keyboards shop](https://custom-keyboards-shop.vercel.app/)
 * ✉️  You can contact me at [artsemshauchuk@gmail.com](mailto:artsemshauchuk@gmail.com)
-* 🚀  I'm currently working at BitAdventure as a Web Developer
+* 🚀  I'm currently working at ItechArt as a Fullstack Software Engineer
 * 🧠  I'm learning Advanced React.js, Next.js, Nest.js, TypeScript and web apps architecture
 
 ### Skills
