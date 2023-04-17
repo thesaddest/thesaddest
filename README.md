@@ -50,8 +50,6 @@
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/thesaddest"><img src="https://github-readme-stats.vercel.app/api?username=thesaddest&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="thesaddest's GitHub stats" /></a>
-
 <a href="http://www.github.com/thesaddest"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thesaddest&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/thesaddest" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaddest&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
