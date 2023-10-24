@@ -2,10 +2,7 @@
 ### Software Engineer
 
 * 🌍  Based in Warsaw, Poland
-* 🖥️  See my [portfolio](https://nextjs-portfolio-black-iota.vercel.app/)
 * 💻  You can check out some of my latest projects:
-*  *  [e-commerce app](https://pern-e-commerce-shop.herokuapp.com/)
-*  *  [trip-assistant app](https://trip-assistant.netlify.app/)
 *  *  [custom keyboards shop](https://custom-keyboards-shop.vercel.app/)
 * ✉️  You can contact me at [artsemshauchuk@gmail.com](mailto:artsemshauchuk@gmail.com)
 * 🚀  I'm currently working at iTechArt Group as a Fullstack Software Engineer
